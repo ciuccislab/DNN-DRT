@@ -21,3 +21,11 @@ pandas
 torch
 
 cvxpy
+
+# Tutorials
+
+**ex1_2ZARC.ipynb**: this notebook gives detail procedure of how to recover the DRT from the impedance generated using a $2\times \rm ZARC$ model consisting of a resistance placed in parallel to a constant phase element (CPE) The frequency range is from 1E-4 Hz to 1E4 Hz with 10 points per decade (ppd).
+
+
+
+his notebook shows how to deconvolve the DCT of synthetic EIS data generated using the series association of a double ZARC element and a generalized Warburg element
