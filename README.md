@@ -19,3 +19,5 @@ matplotlib
 pandas
 
 torch
+
+cvxpy
