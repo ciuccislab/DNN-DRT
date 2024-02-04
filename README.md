@@ -34,13 +34,13 @@ cvxpy
 # Citation
 
 ```
-@article{quattrocchi2021deep,
-  title={The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data},
-  author={Quattrocchi, Emanuele and Wan, Ting Hei and Belotti, Alessio and Kim, Dohyung and Pepe, Simona and Kalinin, Sergei V and Ahmadi, Mahshid and Ciucci, Francesco},
+@article{quattrocchi2023deconvolution,
+  title={Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times},
+  author={Quattrocchi, Emanuele and Py, Baptiste and Maradesa, Adeleke and Meyer, Quentin and Zhao, Chuan and Ciucci, Francesco},
   journal={Electrochimica Acta},
-  volume={392},
-  pages={139010},
-  year={2021},
+  volume={439},
+  pages={141499},
+  year={2023},
   publisher={Elsevier}
 }
 
