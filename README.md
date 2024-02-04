@@ -24,8 +24,8 @@ cvxpy
 
 # Tutorials
 
-**ex1_2ZARC.ipynb**: this notebook gives detail procedure of how to recover the DRT from the impedance generated using a $2\times \rm ZARC$ model consisting of a resistance placed in parallel to a constant phase element (CPE) The frequency range is from 1E-4 Hz to 1E4 Hz with 10 points per decade (ppd).
+**ex1_2ZARC.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from the impedance generated using $2\times \rm ZARC$ models arranged in series.
 
+**ex2_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from the impedance spectra exhibiting inductive behavior.
 
-
-his notebook shows how to deconvolve the DCT of synthetic EIS data generated using the series association of a double ZARC element and a generalized Warburg element
+**ex2_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from real impedance, which exhibit inductive behavior, obtained from proton exchange membrane fuel cell.
