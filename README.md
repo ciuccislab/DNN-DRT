@@ -28,4 +28,20 @@ cvxpy
 
 **ex2_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from the impedance spectra exhibiting inductive behavior.
 
-**ex2_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from real impedance, which exhibit inductive behavior, obtained from proton exchange membrane fuel cell.
+**ex3_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from real impedance, which exhibits inductive behavior, obtained from proton exchange membrane fuel cell.
+
+
+# Citation
+
+```
+@article{quattrocchi2021deep,
+  title={The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data},
+  author={Quattrocchi, Emanuele and Wan, Ting Hei and Belotti, Alessio and Kim, Dohyung and Pepe, Simona and Kalinin, Sergei V and Ahmadi, Mahshid and Ciucci, Francesco},
+  journal={Electrochimica Acta},
+  volume={392},
+  pages={139010},
+  year={2021},
+  publisher={Elsevier}
+}
+
+```
