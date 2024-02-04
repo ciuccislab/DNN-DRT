@@ -28,7 +28,7 @@ cvxpy
 
 **ex2_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from the impedance spectra exhibiting inductive behavior.
 
-**ex3_hook.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from real impedance, which exhibits inductive behavior, obtained from proton exchange membrane fuel cell.
+**ex3_PEMFC.ipynb**: this notebook provides a detailed procedure on how to recover the DRT from real impedance, which exhibits inductive behavior, obtained from proton exchange membrane fuel cell.
 
 
 # Citation
