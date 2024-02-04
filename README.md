@@ -7,3 +7,5 @@ Electrochemical impedance spectroscopy (EIS) is characterization technique widel
 
 
 ![image](https://github.com/ciuccislab/pyDRTtools/assets/57649983/c0d8e299-5cac-4b19-a753-1c60d951d337)
+
+# Dependencies
