@@ -5,7 +5,7 @@ This repository contains some of the source code used for the paper titled *Deco
 # Introduction
 Electrochemical impedance spectroscopy (EIS) is a characterization technique widely used to investigate electrochemical systems, such as batteries and fuel cells [1,2,3]. To analyze EIS data, the 
 distribution of relaxation times (DRT) has emerged as a versatile alternative to the equivalent circuits and physical models [1-8]. Deconvolving the DRT from EIS spectra is however challenging, and several
-approaches have been proposed for this purpose [2-8]. In particular, deep neural networks (DNNs) have proven useful to recover and predict the DRT, including when the EIS data is noisy or the DRT is discontinuous, and also to analyze many EIS spectra simultaneously[9]. Recently, our group proposed the DNN-DRT model to speed up the training, assess the DNN accuracy, and investigate EIS data with inductive features [10].
+approaches have been proposed for this purpose [2-8]. In particular, deep neural networks (DNNs) have proven useful to recover and predict the DRT, including when the EIS data is noisy or the DRT is discontinuous[9], and also to analyze many EIS spectra simultaneously[10]. Recently, our group proposed the DNN-DRT model to speed up the training, assess the DNN accuracy, and investigate EIS data with inductive features [11].
 
 
 ![image](https://github.com/ciuccislab/pyDRTtools/assets/57649983/c0d8e299-5cac-4b19-a753-1c60d951d337)
@@ -66,4 +66,6 @@ cvxpy
 [9] Liu, J., Ciucci, F., The Deep-Prior Distribution of Relaxation Times Journal of The Electrochemical Society, 167.2 (2020): 026506 https://doi.org/10.1149/1945-7111/ab631a
 
 [10] E. Quattrocchi, T.H. Wan, A. Belotti, D. Kim, S. Simona, S.V. Kalinin, M. Ahmadi, F. Ciucci, The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data. Electrocimica Acta, 392 (2021) 139010.[doi.org/10.1016/j.electacta.2021.139010](https://doi.org/10.1016/j.electacta.2021.139010)
+
+[11] E. Quattrocchi, B. Py, A. Maradesa, Q. Meyer, C. Zhao, F. Ciucci, Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times. Electrocimica Acta, 439 (2023) 141499.[https://doi.org/10.1016/j.electacta.2022.141499](https://doi.org/10.1016/j.electacta.2022.141499)
 
