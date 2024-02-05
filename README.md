@@ -5,7 +5,7 @@ This repository contains some of the source code used for the paper titled *Deco
 # Introduction
 Electrochemical impedance spectroscopy (EIS) is a characterization technique widely used to investigate electrochemical systems, such as batteries and fuel cells [1,2,3]. To analyze EIS data, the 
 distribution of relaxation times (DRT) has emerged as a versatile alternative to the equivalent circuits and physical models [1-8]. Deconvolving the DRT from EIS spectra is however challenging, and several
-approaches have been developed for this purpose [2-8]. In particular, deep neural networks (DNNs) have proven useful to recover and predict the DRT, including when the EIS data is noisy or the DRT is discontinuous[9], and also to analyze many EIS spectra simultaneously[10]. Recently, our group developed the DNN-DRT model to speed up the training, assess the DNN accuracy, and investigate EIS data with inductive features [11].
+approaches have been developed for this purpose [2-8]. In particular, deep neural networks (DNNs) have proven useful to recover and predict the DRT, including when the EIS data is noisy or the DRT is discontinuous [9], and also to analyze many EIS spectra simultaneously [10]. Recently, our group developed the DNN-DRT model to speed up the training, assess the DNN accuracy, and investigate EIS data with inductive features [11].
 
 
 ![image](https://github.com/ciuccislab/pyDRTtools/assets/57649983/c0d8e299-5cac-4b19-a753-1c60d951d337)
