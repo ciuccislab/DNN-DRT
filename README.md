@@ -1,7 +1,7 @@
 # Project
 
 ## DNN-DRT: Advancing the deconvolution of the distribution of relaxation times with deep neural networks
-This repository contains some of the source code used for the paper titled *Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times*. Electrochimica Acta, 439, 141499. https://doi.org/10.1016/j.electacta.2022.141499. The article preprint is available online at [Link][https://doi.org/10.1016/j.electacta.2022.141499](https://doi.org/10.1016/j.electacta.2022.141499) and in the [docs](docs) folder. [Link](https://chemrxiv.org/engage/chemrxiv/article-details/62dfb097e7fc8fb5b78903a8)
+This repository contains some of the source code used for the paper titled *Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times*. Electrochimica Acta, 439, 141499. https://doi.org/10.1016/j.electacta.2022.141499. The article preprint is available online in [Link](https://chemrxiv.org/engage/chemrxiv/article-details/62dfb097e7fc8fb5b78903a8) and in the [docs](docs) folder. 
 # Introduction
 Electrochemical impedance spectroscopy (EIS) is a characterization technique widely used to investigate electrochemical systems, such as batteries and fuel cells [1,2,3]. To analyze EIS data, the 
 distribution of relaxation times (DRT) has emerged as a versatile alternative to the equivalent circuits and physical models [1-8]. Deconvolving the DRT from EIS spectra is however challenging, and several
